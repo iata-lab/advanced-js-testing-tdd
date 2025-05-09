@@ -1,0 +1,1 @@
+const isIsogram = 0;
